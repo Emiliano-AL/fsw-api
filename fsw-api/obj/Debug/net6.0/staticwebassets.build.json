@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZoYa1TtIdnI0vBLpPRwR9WWIO6KawU57SlIkvkeT17U=",
+  "Source": "fsw-api",
+  "BasePath": "_content/fsw-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
