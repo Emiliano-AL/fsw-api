@@ -14,7 +14,7 @@ namespace fsw_api.Services
             {
                 new City()
                 {
-                    Id = 1,
+                    CityId = 1,
                     CityName = "Buenos Aires",
                     Country = "Argentina",
                     NumVisits = 1567,
@@ -24,7 +24,7 @@ namespace fsw_api.Services
                 },
                 new City()
                 {
-                    Id = 2,
+                    CityId = 2,
                     CityName = "Santiago",
                     Country = "Chile",
                     NumVisits = 1567,
@@ -34,7 +34,7 @@ namespace fsw_api.Services
                 },
                 new City()
                 {
-                    Id = 3,
+                    CityId = 3,
                     CityName = "Ciudad de México",
                     Country = "México",
                     NumVisits = 1267,
@@ -44,7 +44,7 @@ namespace fsw_api.Services
                 },
                 new City()
                 {
-                    Id = 4,
+                    CityId = 4,
                     CityName = "Bogotá",
                     Country = "Colombia",
                     NumVisits = 1267,
@@ -54,7 +54,7 @@ namespace fsw_api.Services
                 },
                 new City()
                 {
-                    Id = 5,
+                    CityId = 5,
                     CityName = "São Paulo",
                     Country = "Brasil",
                     NumVisits = 1267,
@@ -64,7 +64,7 @@ namespace fsw_api.Services
                 },
                 new City()
                 {
-                    Id = 6,
+                    CityId = 6,
                     CityName = "Cancún",
                     Country = "México",
                     NumVisits = 1267,
@@ -74,39 +74,9 @@ namespace fsw_api.Services
                 },
                 new City()
                 {
-                    Id = 7,
+                    CityId = 7,
                     CityName = "Río de Janeiro",
                     Country = "Brasil",
-                    NumVisits = 1267,
-                    NumHotels = 23345,
-                    Certifications = 5,
-                    Population = 457400,
-                },
-                new City()
-                {
-                    Id = 8,
-                    CityName = "Cartagena",
-                    Country = "Colombia",
-                    NumVisits = 1267,
-                    NumHotels = 23345,
-                    Certifications = 5,
-                    Population = 457400,
-                },
-                new City()
-                {
-                    Id = 9,
-                    CityName = "La Habana",
-                    Country = "Cuba",
-                    NumVisits = 1267,
-                    NumHotels = 23345,
-                    Certifications = 5,
-                    Population = 457400,
-                },
-                new City()
-                {
-                    Id = 10,
-                    CityName = "Lima",
-                    Country = "Perú",
                     NumVisits = 1267,
                     NumHotels = 23345,
                     Certifications = 5,
